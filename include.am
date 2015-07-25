@@ -9,7 +9,7 @@ src_ext_libext_la_SOURCES = \
     src/ext/strtonum.c \
     src/ext/http-parser/http_parser.c
 
-libight_la_LIBADD += src/ext/libext.la
+libmeasurement_kit_la_LIBADD += src/ext/libext.la
 
 #
 # YAML-CPP
