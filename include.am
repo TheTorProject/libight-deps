@@ -19,7 +19,7 @@ if USE_BUILTIN_JANSSON
     SUBDIRS += src/ext/jansson
 endif
 
-if USE_LIBMAXMINDDB
+if USE_BUILTIN_LIBMAXMINDDB
     DIST_SUBDIRS += src/ext/libmaxminddb
     SUBDIRS += src/ext/libmaxminddb
 endif
