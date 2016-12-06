@@ -1,3 +1,7 @@
+# 2016-12-06
+
+- rebuild using measurement-kit/measurement-kit@9b586f7eb6c7a3666
+
 # 2016-10-03
 
 - rebuild using measurement-kit/measurement-kit@1419a70050f14371e
