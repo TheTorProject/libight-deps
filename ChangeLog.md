@@ -1,3 +1,7 @@
+# 2016-12-17
+
+- build ios using measurement-kit/measurement-kit@19b318fd5d
+
 # 2016-12-10
 
 - build using measurement-kit/measurement-kit@33f8c8f0
