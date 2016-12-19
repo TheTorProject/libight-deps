@@ -1,3 +1,8 @@
+# 2016-12-19
+
+New style build where we build per architecture with dependencies and
+we use build version numbers like many linux distributions do.
+
 # 2016-12-17
 
 - build ios using measurement-kit/measurement-kit@19b318fd5d
