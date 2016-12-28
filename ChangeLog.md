@@ -1,3 +1,7 @@
+# 2016-12-28
+
+Tag the stable and testing releases so we can always use them.
+
 # 2016-12-19
 
 New style build where we build per architecture with dependencies and
