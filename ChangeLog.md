@@ -1,3 +1,11 @@
+# 2017-03-27
+
+Created new release that should contain:
+
+- geoip v1.6.9
+- libressl v2.4.5
+- libevent patches-2.1 branch
+
 # 2016-12-28
 
 Tag the stable and testing releases so we can always use them.
