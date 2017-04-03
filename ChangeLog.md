@@ -1,3 +1,11 @@
+# 2017-04-03
+
+Another release that contains these dependencies:
+
+- geoip v1.6.10
+- libressl v2.4.5
+- libevent patches-2.1 branch
+
 # 2017-03-27
 
 Created new release that should contain:
