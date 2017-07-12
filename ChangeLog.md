@@ -1,3 +1,11 @@
+# 2017-07-12
+
+Experimental build including only iOS for `x86_64` with:
+
+- geoip v1.6.11
+- libressl v2.5.5
+- libevent patches-2.1 branch
+
 # 2017-07-11
 
 Another release that contains these dependencies:
