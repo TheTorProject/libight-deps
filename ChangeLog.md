@@ -1,3 +1,15 @@
+# 2018-03-03
+
+Build with new [MK build system](
+https://github.com/measurement-kit/measurement-kit/pull/1561)
+where we're tweaking the build scripts after simplifications
+that occurred in [#1554](
+https://github.com/measurement-kit/measurement-kit/pull/1554).
+
+- geoip v1.6.11
+- libressl v2.5.5
+- libevent patches-2.1 branch
+
 # 2017-07-12
 
 Experimental build including only iOS for `x86_64` with:
