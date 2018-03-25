@@ -1,3 +1,12 @@
+# 2013-03-26
+
+Build with MK stable and updated dependencies for upcoming
+MK v0.8.2 relase.
+
+- geoip v1.6.12
+- libressl v2.6.4
+- libevent patches-2.1 branch
+
 # 2018-03-03
 
 Build with new [MK build system](
