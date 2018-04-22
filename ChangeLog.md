@@ -1,9 +1,3 @@
-# Dependencies testing
-
-Since today (2018-04-22) let's experiment with not making
-a new release every time but with publishing all the
-archives into the same place.
-
 # 2018-03-26
 
 Build with MK stable and updated dependencies for upcoming
