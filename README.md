@@ -1,4 +1,7 @@
-# MeasurementKit dependencies
+# MeasurementKit dependencies [DEPRECATED]
+
+**Note:** This repository is deprecated in favour of
+[measurement-kit/prebuilt](https://github.com/measurement-kit/prebuilt).
 
 This repositories contains the binaries of
 [MeasurementKit](https://github.com/measurement-kit/measurement-kit)
