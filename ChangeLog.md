@@ -1,3 +1,11 @@
+# 2018-10-11
+
+Build with updated dependencies for the upcoming MK v0.8.4 release:
+
+- geoip v1.6.12
+- libressl v2.6.4
+- libevent patches-2.1 branch
+
 # 2018-03-26
 
 Build with MK stable and updated dependencies for upcoming
